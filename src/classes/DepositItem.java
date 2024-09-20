@@ -1,4 +1,4 @@
-package customer;
+package classes;
 
 // Base class for deposit items
 public class DepositItem {

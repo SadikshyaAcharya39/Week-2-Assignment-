@@ -1,4 +1,4 @@
-package customer;
+package classes;
 
 public class ReceiptPrinter
 {
